@@ -10,10 +10,6 @@ Yuri Martins, aka Stecken.
  
 * Github
  
-## How to use
- 
-Here will be the images and descriptions. Principal content.
- 
 ## Author
  
 * **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
