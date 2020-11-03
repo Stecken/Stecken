@@ -1,5 +1,5 @@
 ![treio](https://user-images.githubusercontent.com/54507543/98027948-2c70a800-1dec-11eb-899f-17d7b8510b2d.png)
-## Yuri Martins, aka Stecken.
+Yuri Martins, aka Stecken.
 
 ## Technologys
  
