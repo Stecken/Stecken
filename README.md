@@ -52,10 +52,9 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 
 ### Experiences History:
 - Development of Discord Bots (JavaScript)
-- Development of WEB API's (Node.js)
 - Development of WebSites (HTML/CSS/JS/...)
-- Development of WebSites Using React.js (JavaScript/JSX)
-- Development of Games (C#)
+- Development of Softwares using Qt (C/C++)
+- Development of Embbed Systems (C/C++, Assembly)
 - [...]
 
 ### Professional History:
