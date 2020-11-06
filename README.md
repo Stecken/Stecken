@@ -68,7 +68,7 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 - Admin helper on a national Minecraft server [June 2018 - September 2019]
 
 ![Stecken's github stats](https://github-readme-stats.vercel.app/api?username=Stecken&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 >     Copyright © 2020 KuryKat
 Modify by Stecken
