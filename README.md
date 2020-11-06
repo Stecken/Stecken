@@ -71,6 +71,7 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stecken's github stats](https://github-readme-stats.vercel.app/api?username=Stecken&show_icons=true&theme=radical)
 
 Modify by Stecken
 >     Copyright © 2020 KuryKat
