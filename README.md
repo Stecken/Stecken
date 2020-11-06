@@ -67,7 +67,9 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 - Administrator of a translation community [December 2019 - February 2020]
 - Admin helper on a national Minecraft server [June 2018 - September 2019]
 
+- Top languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken)](https://github.com/anuraghazra/github-readme-stats)
 
 Modify by Stecken
 >     Copyright © 2020 KuryKat
