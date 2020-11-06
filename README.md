@@ -43,18 +43,18 @@
     - Python
     
 ## My History:
-Well, telling a little about myself, I'm a Fullstack systems developer, in development, I study these technologies since 2017, I try to learn something new every day, I am always looking to improve my knowledge, even at the age of 16 I believe I can learn a lot before I am 20 years old so that I can be a complete professional and that I can have an extensive curriculum of knowledge and skills.
 
-I intend to graduate in Computer Science, Postgraduate in Machine Learning and go through this area of ​​artificial intelligence! I intend to do other graduations parallel to this one, but these are my main ones, I want to be able to have a well done curriculum with enough interesting and Skillful information before I am 25 years old (maybe I can do it, I'm confident!)
+I will tell you a little bit about my story, I started in the world of programming in 2019, studying in a technical course in Mechatronics integrated to high school at the Federal Institute of São Paulo, with instruction in pseudo-languages, programming logic and then C language. the fact, i fell in love with technology, and started to study the web part, but developed a high taste for security research and vulnerability research. I studied more C, and started for C++ and C#, producing embedded systems and software for Windows systems, and also studying Assembly in an emphasis on embedded systems, but together with 32x and 64x systems, for possible production of Reverse Engineering.
 
-Well, now you already know a lot about me, see my events history, as history of Professions, volunteering and experiences, in the lists below: 👏😄
+I intend to continue in the research of vulnerabilities, and in the study of systems modification, and production of embedded systems. In the near future I intend to take C/C++ certifications, and serve as a whitehat for vulnerability researchers.
+
+If possible, I will attend a college in Computer Science, or a mathematical specialization, in specific calculus, which is very important to produce algorithms that solve big problems, and to develop systems with AI.
 
 ### Experiences History:
 - Development of Discord Bots (JavaScript)
 - Development of WEB API's (Node.js)
 - Development of WebSites (HTML/CSS/JS/...)
 - Development of WebSites Using React.js (JavaScript/JSX)
-- Development of WebSites Using Another Frameworks!
 - Development of Games (C#)
 - [...]
 
