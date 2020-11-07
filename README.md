@@ -1,3 +1,4 @@
+![vamo veer_Easy-Resize com](https://user-images.githubusercontent.com/54507543/98450288-5e4e7b00-211a-11eb-8ab8-9f1b53839897.jpg)
 # Welcome To My GitHub!
   
 ![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-8b0000?style=flat-square&labelColor=8b0000&logo=github&logoColor=white)
