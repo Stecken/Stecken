@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ThinkingStecken-8b0000?style=flat-square&labelColor=8b0000&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=Stecken)](https://twitter.com/intent/follow?screen_name=ThinkingStecken)
 [![Gmail Badge](https://img.shields.io/badge/-devfullstackbr@gmail.com-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:devfullstackbr@gmail.com)](mailto:devfullstackbr@gmail.com)
 ![Discord Badge](https://img.shields.io/badge/-@Stecken%234969-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)
-![View Badge](https://komarev.com/ghpvc/?username=Stecken)
+![View Badge](https://komarev.com/ghpvc/?username=Stecken&style=flat-square&color=8b0000)
 ## Heya! Personal Informations!
 - My name is Yuri Martins, aka Stecken. 😃
 - I'm 16 years old (01/10/2004) 🎉
