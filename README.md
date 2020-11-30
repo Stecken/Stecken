@@ -3,9 +3,9 @@
   
 ![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-8b0000?style=flat-square&labelColor=8b0000&logo=github&logoColor=white)
 [![Twitter Badge](https://img.shields.io/badge/-@ThinkingStecken-8b0000?style=flat-square&labelColor=8b0000&logo=twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=Stecken)](https://twitter.com/intent/follow?screen_name=ThinkingStecken)
-[![Gmail Badge](https://img.shields.io/badge/-contactkurykat@gmail.com-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:contactkurykat@gmail.com)](mailto:contactkurykat@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contactkurykat@gmail.com-8b0000?style=flat-square&labelColor=8b0000&logo=Gmail&logoColor=white&link=mailto:devfullstackbr@gmail.com)](mailto:devfullstackbr@gmail.com)
 ![Discord Badge](https://img.shields.io/badge/-@Stecken%234969-8b0000?style=flat-square&labelColor=8b0000&logo=discord&logoColor=white)
-
+<img src="https://komarev.com/ghpvc/?username=Stecken" alt="akshit-wtf" alt="Profile Views" />
 ## Heya! Personal Informations!
 - My name is Yuri Martins, aka Stecken. 😃
 - I'm 16 years old (01/10/2004) 🎉
