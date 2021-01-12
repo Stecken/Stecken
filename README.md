@@ -10,6 +10,7 @@
 - My name is Yuri Martins, aka Stecken. 😃
 - I'm 16 years old (01/10/2004) 🎉
 - I live in Brazil 🇧🇷
+- I'm a student in Mechatronics, integrated to high school at Instituto Federal São Paulo
   
 - Specific Informations:
 *(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
@@ -55,17 +56,15 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 - Development of Discord Bots (JavaScript)
 - Development of WebSites (HTML/CSS/JS/...)
 - Development of Softwares using Qt (C/C++)
+- Development of Sofwares using WinApi (C/C++)
 - Development of Embbed Systems (C/C++, Assembly)
 - [...]
 
 ### Professional History:
-- Freelancer as a Web Developer (Fullstack) [June 2020 - Now]
-- Bot Vendor in Discord (JavaScript) [June 2019 - March 2020]
+- Freelancer as a Devops [2020]
 
 ### Volunteering History
-- General Manager in an E-Sports team [March 2020 - September 2020]
-- Administrator of a translation community [December 2019 - February 2020]
-- Admin helper on a national Minecraft server [June 2018 - September 2019]
+- Pentester in  many Companies [March 2020...]
 
 ![Stecken's github stats](https://github-readme-stats.vercel.app/api?username=Stecken&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
