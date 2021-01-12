@@ -26,6 +26,8 @@
   - Specific Knowledge:
     - Embedded systems(Atmega328p) [Intermediate]
     - Win32 API [Intermediate]
+    - SDL [Intermediate]
+    - OpenGL [Intermediate]
     - Qt Creator [Intermediate]
     - HTML5 [Expert]
     - Node.js [Intermediate]
