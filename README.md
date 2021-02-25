@@ -26,7 +26,14 @@
   - Electron.js 
   - PHP 
   - Python
-    
+## Development
+<p style="align: center;">
+  <img src="https://xesque.rocketseat.dev/platform/tech/c.svg" /> &nbsp;&nbsp;
+  <img src="https://xesque.rocketseat.dev/platform/tech/cplusplus.svg" />&nbsp;&nbsp;
+  <img src="https://xesque.rocketseat.dev/platform/tech/python.svg" />&nbsp;&nbsp;
+  <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" />&nbsp;&nbsp;
+</p>
+
 ## My History:
 
 I will tell you a little bit about my story, I started in the world of programming in 2019, studying in a technical course in Mechatronics integrated to high school at the Federal Institute of São Paulo, with instruction in pseudo-languages, programming logic and then C language. the fact, i fell in love with technology, and started to study the web part, but developed a high taste for security research and vulnerability research. I studied more C, and started for C++ and C#, producing embedded systems and software for Windows systems, and also studying Assembly in an emphasis on embedded systems, but together with 32x and 64x systems, for possible production of Reverse Engineering.
@@ -42,9 +49,6 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 - Development of Sofwares using WinApi (C/C++)
 - Development of Embbed Systems (C/C++, Assembly)
 - [...]
-
-### Professional History:
-- Freelancer as a Devops [2020]
 
 ### Volunteering History
 - Pentester in  many Companies [March 2020...]
