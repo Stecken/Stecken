@@ -11,31 +11,24 @@
 - I'm a student in Mechatronics, integrated to high school at Instituto Federal São Paulo
   
 - Specific Informations:
-*(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
-  - Development
-    - Main Language: C/C++ [Advanced]
-    - Secondary Language: C# [Intermediate]
-    - Secondary Language: Assembly [Intermediate]
-    - Secondary Language: JavaScript [Intermediate]
-    - Secondary Language: VBscript [Beginner]
-  - Languages:
-    - Portuguese [Fluent - Native]
-    - English - [Intermediate]
-  - Specific Knowledge:
-    - Embedded systems(Atmega328p)
-    - Win32 API
-    - SDL
-    - OpenGL
-    - Qt Creator
-    - HTML5
-    - Node.js
-    - CSS
-  - Intend to Study: (In order of interest (most interested at the top of the list))
-    - Reverse Engineering
-    - React.js
-    - Electron.js 
-    - PHP 
-    - Python
+- Languages:
+  - Portuguese [Fluent - Native]
+  - English - [Intermediate]
+- Specific Knowledge:
+  - Embedded systems(Atmega328p)
+  - Win32 API
+  - SDL
+  - OpenGL
+  - Qt Creator
+  - HTML5
+  - Node.js
+  - CSS
+- Intend to Study: (In order of interest (most interested at the top of the list))
+  - Reverse Engineering
+  - React.js
+  - Electron.js 
+  - PHP 
+  - Python
     
 ## My History:
 
