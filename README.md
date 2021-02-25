@@ -9,8 +9,7 @@
 - I'm 16 years old (01/10/2004) 🎉
 - I live in Brazil 🇧🇷
 - I'm a student in Mechatronics, integrated to high school at Instituto Federal São Paulo
-  
-- Specific Informations:
+
 - Languages:
   - Portuguese [Fluent - Native]
   - English - [Intermediate]
@@ -20,9 +19,7 @@
   - SDL
   - OpenGL
   - Qt Creator
-  - HTML5
   - Node.js
-  - CSS
 - Intend to Study: (In order of interest (most interested at the top of the list))
   - Reverse Engineering
   - React.js
