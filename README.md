@@ -1,4 +1,3 @@
-![vamo veer_Easy-Resize com](https://user-images.githubusercontent.com/54507543/98450288-5e4e7b00-211a-11eb-8ab8-9f1b53839897.jpg)
 # Welcome To My GitHub!
   
 ![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-8b0000?style=flat-square&labelColor=8b0000&logo=github&logoColor=white)
@@ -23,26 +22,19 @@
     - Portuguese [Fluent - Native]
     - English - [Intermediate]
   - Specific Knowledge:
-    - Embedded systems(Atmega328p) [Intermediate]
-    - Win32 API [Intermediate]
-    - SDL [Intermediate]
-    - OpenGL [Intermediate]
-    - Qt Creator [Intermediate]
-    - HTML5 [Expert]
-    - Node.js [Intermediate]
-    - CSS [Advanced]
+    - Embedded systems(Atmega328p)
+    - Win32 API
+    - SDL
+    - OpenGL
+    - Qt Creator
+    - HTML5
+    - Node.js
+    - CSS
   - Intend to Study: (In order of interest (most interested at the top of the list))
-    - Hacking
     - Reverse Engineering
-    - Search of Technology 
     - React.js
     - Electron.js 
-    - Angular
-    - Vue.js
-    - Kotlin 
-    - Java
     - PHP 
-    - Lua
     - Python
     
 ## My History:
@@ -68,7 +60,6 @@ If possible, I will attend a college in Computer Science, or a mathematical spec
 - Pentester in  many Companies [March 2020...]
 
 ![Stecken's github stats](https://github-readme-stats.vercel.app/api?username=Stecken&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stecken&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 >     Copyright © 2020 KuryKat
 Modify by Stecken
