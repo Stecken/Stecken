@@ -12,7 +12,8 @@
 
 - Languages:
   - Portuguese [Fluent - Native]
-  - English - [Intermediate]
+  - English [Intermediate]
+  - Spanish [Beginner]
 - Specific Knowledge:
   - Embedded systems(Atmega328p)
   - Win32 API
