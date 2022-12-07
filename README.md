@@ -6,7 +6,7 @@
 ![View Badge](https://komarev.com/ghpvc/?username=Stecken&style=flat-square&color=8b0000)
 ## Heya! Personal Informations!
 - My name is Yuri Martins, aka Stecken. 😃
-- I'm 16 years old (01/10/2004) 🎉
+- I'm 18 years old (01/10/2004) 🎉
 - I live in Brazil 🇧🇷
 - I'm a student in Mechatronics, integrated to high school at Instituto Federal São Paulo
 
